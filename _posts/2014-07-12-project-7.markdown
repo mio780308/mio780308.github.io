@@ -3,6 +3,7 @@ layout: default
 modal-id: 7
 date: 2016-01-14
 img: ideaTV.png
+img2: game.png
 alt: ideaTV
 project-date: Feb 2012
 client: ICCI
