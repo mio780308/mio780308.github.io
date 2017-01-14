@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: robot.git
+img: robot.gif
 alt: OpenGL Robot Animation Practice
 project-date: Jan 2014
 client: nobody
