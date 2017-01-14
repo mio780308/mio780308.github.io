@@ -8,5 +8,4 @@ project-date: Feb 2012
 client: ICCI
 category: Android
 description: An app
-
 ---
