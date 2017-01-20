@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2014-07-15
-img: submarine.png
+img: 3DRUN.png
 thumbimg:
 alt: image-alt
 project-date: April 2014
