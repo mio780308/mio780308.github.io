@@ -83,7 +83,7 @@ header {
     text-align: center;
     color: #fff;
     /*background: #{{ site.color.primary }};*/
-	background-image: url("img/headerBack.jpg");
+	background-image: url("img/headerBack.jpeg");
 	background-size: 100%;
 }
 
