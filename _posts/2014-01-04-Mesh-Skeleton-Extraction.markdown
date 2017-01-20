@@ -3,6 +3,7 @@ layout: default
 modal-id: 5
 date: 2014-07-16
 img: circus.png
+thumbimg:
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
