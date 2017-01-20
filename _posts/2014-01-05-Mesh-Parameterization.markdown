@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: game.png
+img: meshParameterization.PNG
 thumbimg:
 alt: image-alt
 project-date: April 2014
