@@ -8,6 +8,6 @@ alt: OpenGL Practice
 project-date: Jan 2014
 client: nobody
 category: OpenGL
-description: This is an OpenGL and OpenMesh library coding practice. In this practice, I loaded a 3D mesh with OpenMesh and implemented mesh face and vertex selection by unprojecting mouse's click location on screen back to 3D space and find the nearest vertex. I also implemented a spherical camera system to provide user with more view angles.
+description: <p style="text-align:left">Another  coding.</p>
 
 ---

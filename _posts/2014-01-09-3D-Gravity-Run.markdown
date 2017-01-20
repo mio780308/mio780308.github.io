@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <p style="text-align:left">1</p><iframe width="560" height="315" src="https://www.youtube.com/embed/v8r4d0D_ZAI" frameborder="0" allowfullscreen></iframe><p style="text-align:left">2</p>
+description: <p style="text-align:left">This was a final team project for mobile game design class in NTUST.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/v8r4d0D_ZAI" frameborder="0" allowfullscreen></iframe><p style="text-align:left">2</p>
 
 ---

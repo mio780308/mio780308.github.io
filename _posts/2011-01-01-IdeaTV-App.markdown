@@ -8,5 +8,5 @@ alt: ideaTV
 project-date: Feb 2012
 client: ICCI
 category: Android
-description: An app aimed to present to users with the latest entertainment information. My part in the project was interface programming.
+description: An app aimed to present to users the latest entertainment information. My part in the project was interface programming of android version.
 ---
