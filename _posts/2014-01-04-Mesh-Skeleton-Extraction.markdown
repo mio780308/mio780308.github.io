@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <p style="text-align:left">Another  coding.</p>
+description: Second assignment for Digital Mesh Processing class. In this assignment we extract skeleton of a 3D mesh by geometry contraction. The algorithm is from "Skeleton Extraction by Mesh Contraction."
 
 ---
