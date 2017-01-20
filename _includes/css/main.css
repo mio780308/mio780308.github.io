@@ -82,9 +82,9 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    /*ackground: #{{ site.color.primary }};*/
-	background-image: url("img/headerBack.jpg");
-	background-size: 100%;
+    background: #{{ site.color.primary }};
+	/*background-image: url("img/headerBack.jpg");
+	background-size: 100%;*/
 }
 
 header .container {
