@@ -8,9 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: PS Vita Development
-description: A team project for 3D game class in NTUST. In this project, we had access to sony's psvita sdk and that was what our project was based on. Our original concept for the game was to combine the gameplay elements of rubik's cube and tower defense games. We used rubik's cube as our level scenes. In each level, enemies spawn at a random location on the cube and follow a path to an end point on the cube. When enough enemies reached the end point, the player loses. As players progress to a new level, the enemies path changes, so players have to rearrange the cube to best counter the enemy's new attack plan.
-
-
-Unfortunately, due to time restriction, we only finished bare-bones gameplay elements. Below is our project in action.
-
+description: A team project for 3D game class in NTUST. In this project, we had access to sony's psvita sdk and that was what our project was based on. Our original concept for the game was to combine the gameplay elements of rubik's cube and tower defense games. We used rubik's cube as our level scenes. In each level, enemies spawn at a random location on the cube and follow a path to an end point on the cube. When enough enemies reached the end point, the player loses. As players progress to a new level, the enemies path changes, so players have to rearrange the cube to best counter the enemy's new attack plan.</br>Unfortunately, due to time restriction, we only finished bare-bones gameplay elements. Below is our project in action.
 ---
