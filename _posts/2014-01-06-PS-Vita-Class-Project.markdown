@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2014-07-14
+date: 2014-01-14
 img: vita.png
 thumbimg:
 alt: image-alt
