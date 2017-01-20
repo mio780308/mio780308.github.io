@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-18
-img: robot.gif
+img: meshSeletion.gif
 thumbimg:
 alt: OpenGL Practice
 project-date: Jan 2014
