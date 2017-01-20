@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: blah
+description: This was the first assignment for Digital Mesh Processing class in NTUST. We were tasked with implementing Dr. Michael Garland's "Surface Simplification Using Quadric Error Metrics".
 
 ---
