@@ -26,6 +26,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: email
+    url: mio780308@gmail.com
   - title: github
     url: https://github.com/mio780308
 #  - title: linkedin
