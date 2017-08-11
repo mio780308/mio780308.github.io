@@ -2,8 +2,8 @@
 layout: default
 img: dog.png
 category: Services
-title: PS Vita Class Project
+title: PS Vita Game Prototype Project
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/ydA1b-RsrPg" frameborder="0" allowfullscreen></iframe>
 description: |
 ---
-  A team project for 3D game class in NTUST. In this project, we had access to sony's psvita sdk. Our concept for the game was to combine the gameplay elements of rubik's cube and tower defense games. We used rubik's cube as the game's level. In each level, enemies spawn at a random location on the cube and follow a path to another point on the cube. When enough enemies reached the end point, the player loses. As players progress to a new level, the enemy's path changes, so players have to rearrange the cube to change towers' positions to best counter the enemy's new attacking path. Unfortunately, due to time restriction, we only finished bare-bones gameplay elements.
+  A team project for 3D game class in NTUST. We were given access to sony's psvita sdk. Our concept was to combine rubik's cube and tower defense. In each level, enemies spawn at a random location and follow a path to another point on the cube. If enough enemies reached the destination, the player loses. As the level progresses, the enemy's path changes, forcing players to rearrange the cube to better position the towers. Unfortunately, due to time restriction, we only finished bare-bones gameplay elements.
