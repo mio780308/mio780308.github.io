@@ -40,7 +40,9 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+				  {% if post.video %} {{ post.video }} {% else %}
                   <img class="img-responsive" src="img/{{ post.img }}" alt="">
+				  {% endif %}
                 </div>
             </div>
 

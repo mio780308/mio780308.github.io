@@ -2,9 +2,8 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: PS Vita Class Project
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/ydA1b-RsrPg" frameborder="0" allowfullscreen></iframe>
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  A team project for 3D game class in NTUST. In this project, we had access to sony's psvita sdk and that was what our project was based on. Our original concept for the game was to combine the gameplay elements of rubik's cube and tower defense games. We used rubik's cube as our level scenes. In each level, enemies spawn at a random location on the cube and follow a path to an end point on the cube. When enough enemies reached the end point, the player loses. As players progress to a new level, the enemy's path changes, so players have to rearrange the cube to chnage towers' positions to best counter the enemy's new attacking path. Unfortunately, due to time restriction, we only finished bare-bones gameplay elements. Below is our project in action.
