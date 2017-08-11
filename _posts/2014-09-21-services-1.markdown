@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 3D Gravity Run
+video:<iframe width="560" height="315" src="https://www.youtube.com/embed/v8r4d0D_ZAI" frameborder="0" allowfullscreen></iframe>
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  This was a final project for mobile game design class in NTUST. My part of the project was shader coding and debbuging. Tools used: Unity3D.
