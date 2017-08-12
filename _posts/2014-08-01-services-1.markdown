@@ -6,4 +6,6 @@ title: 3D Gravity Run
 video: <iframe width="560" height="315" src="https://www.youtube.com/embed/v8r4d0D_ZAI" frameborder="0" allowfullscreen></iframe>
 description: |
 ---
-This was a final project for mobile game design class in NTUST. My part in the project was shader coding and debbuging.
+A 3-D endless running game set in space as our team's entry for mobile game design contest held by NTUST.
+The game features a control scheme using device orientation.
+The project was recognized as an excellent work.
