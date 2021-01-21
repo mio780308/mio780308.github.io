@@ -1,0 +1,9 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Ogre3D Project
+video: <iframe width="560" height="315" src="https://www.youtube.com/embed/I2-LNI1SkkU" frameborder="0" allowfullscreen></iframe>
+description: |
+---
+Another final project for 3D game class in NTUST. We were tasked with setting up a chain of events of objects interacting with each other and simulate it with a physics engine. We used Ogre3D for rendering the scene and Bullet Physics Library for simulating physics. We also implemented water reflection and water waves with custom shaders.
