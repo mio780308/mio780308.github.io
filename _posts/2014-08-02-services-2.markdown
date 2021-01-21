@@ -1,9 +1,0 @@
----
-layout: default
-img: dog.png
-category: Services
-title: PS Vita Game Prototype Project
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/ydA1b-RsrPg" frameborder="0" allowfullscreen></iframe>
-description: |
----
-  A game concept prototype combining Rubik's cube and tower defense for PS Vita. In each level, enemies spawn at a random location and follow a path to another point on the cube. If enough enemies reached the destination, the player loses. As the level progresses, the enemy's path changes, forcing players to rearrange the cube to better position the towers. Unfortunately, due to time restriction, we only finished bare-bones gameplay elements.
